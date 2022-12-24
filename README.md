@@ -1,13 +1,11 @@
-# ARDicee
+# ARDicee + Changing Dice Color
 
-
-## ARDicee + Changing Dice Color
-
-> Modifying and Adding code to what I've learned in _The Complete iOS App Development Bootcamp on Udemy, taught by Angela Yu_.
+> Modifying and Adding code to what I've learned in _The Complete iOS App Development Bootcamp on Udemy, taught by Angela Yu_
+> 
 > AR iOS App using ARkit
 
 ### Adding button to chage color of dice based on _ARDicee_
-Add Pop Up Button of UIkit               
+**Add Pop Up Button of UIkit               
 
 </br>   
 <p float="left">
